@@ -1,5 +1,8 @@
 # Linux_commands
 ## C program of frequently use Linux command
+## c program code of frequently use Linux command
+## our own version of linux commands code.
+
 1. Write a system programming your own version of cat command?
 2. Write a system programming your own version of echo command?
 3. Write a system programming your own version of head & tail command?
